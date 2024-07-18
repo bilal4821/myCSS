@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(145, 97, 107);
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: cadetblue;
+    
+}
